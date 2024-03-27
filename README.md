@@ -1,8 +1,6 @@
 # pizza-sales-Aanalysis-and-visualization
 ### Sales analysis of items sold between Jan 15th and Dec 25th and a dashboard
 
-# Road accident analysis using Excel
-### Analysis and visualization of road accidents that occured between 2021 and 2022.
 
 ## Project overview
 This project is based on pizza sales data. The assumed clients want a sales data dashboard for Jan 15th to  dec 25th. By analyzing various aspects of the data, contains data about accidents occurring with different influences like time, location or vehicle, we seek to identify trends, and make visualization to enable easier and adequate comprehension. 
