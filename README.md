@@ -1,12 +1,12 @@
-# pizza-sales-Aanalysis-and-visualization
+# pizza-sales-Analysis-and-visualization
 ### Sales analysis of items sold between Jan 15th and Dec 25th and a dashboard
 
 
-## Project overview
-This project is based on pizza sales data. The assumed clients want a sales data dashboard for Jan 15th to  dec 25th. By analyzing various aspects of the data, contains data about accidents occurring with different influences like time, location or vehicle, we seek to identify trends, and make visualization to enable easier and adequate comprehension. 
+## Project overview 
+This project is based on pizza sales data. The assumed clients want a sales data dashboard for Jan 15th to  dec 25th. By analyzing various aspects of the data, contains data about sales with different influences like time, date and pizza type, we seek to identify trends, and make visualization to enable easier and adequate comprehension. 
 
 ## Data sources
-The primary Data set used for this analysi is "pizza_sales_excel_file", containing details about sales.
+The primary Data set used for this analysis is "pizza_sales_excel_file", containing details about sales.
 
 ## tools
 - SQL - Data cleaning, analysis, KPI creation and fromatting.
@@ -57,7 +57,7 @@ The analysis result are summarized as follows:
 - The Brie Carre  Pizza contributes to the minimum revenue
   
 ## Recommendations
-Based on the analysis, I reccomend the following:
+Based on the analysis, I recommend the following:
 - Recruitement of temporal staffs to take shifts during weekends
 - employing more contract wokers during the month of July and January
 - More attention to Classic and Large pizza size as they bring in biggest revenue.
